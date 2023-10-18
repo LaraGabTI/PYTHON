@@ -1,8 +1,8 @@
 #criando tres variaveis
-a = 5
-b = 30
-c = 20
+num1 = 5
+num2 = 30
+num3 = 20
 
-print (c - b - a) 
+print ("resultado da subtracao:", num2 - num3 - num1) 
 
 
