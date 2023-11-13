@@ -1,0 +1,3 @@
+itens_compra = ["Arroz", "Leite", "Ovos"]
+for i in itens_compra:
+    print(i)
