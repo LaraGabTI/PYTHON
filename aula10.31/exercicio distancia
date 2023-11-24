@@ -1,7 +1,7 @@
 distanciaEmKm = int(input('Digite a distancia em km'))
 qntddEmLt = int(input('Digite a distancia em km'))
 
-consumo = 
+consumo = distanciaEmKm/qntddEmLt
 
 if (consumo < 8):
     print ("Venda o carro")
