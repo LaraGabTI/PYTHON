@@ -7,10 +7,10 @@ letra ='a'
 print(f'A letra "{letra}" aparece {frase.count(letra)}x na frase: "{frase}"')
 
 #upper - letras maiusculas
-#saida = input('Digite "S" para sair').upper()
-#saida.upper()
+saida = input('Digite "S" para sair').upper()
+saida.upper()
 #lower - letras minuscula
-#saida = input('Digite "S" para sair').lower()
+saida = input('Digite "S" para sair').lower()
 
 #find - busca por uma expressão dentro da frase, aparece o indice
 print(frase.find('uau'))
