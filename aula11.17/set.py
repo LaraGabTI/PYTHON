@@ -26,6 +26,7 @@ set3.add(1)
 
 #quebra o interavel
 set3.update('Paulo')
+print(set3)
 
 #deleta o objeto ou o interavel
 set3.discard('P')
