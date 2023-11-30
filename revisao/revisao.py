@@ -1,0 +1,5 @@
+lista = set('Lara')
+lista.add('feiosa')
+print(lista)
+lista.update('feiosa')
+print(lista)

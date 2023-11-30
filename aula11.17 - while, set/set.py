@@ -1,4 +1,5 @@
 # Set - Conjuntos
+#parcialmente imutavel
 #parametro chaves, fatia o interavel(numero)
 #retorna o conjunto, economiza espaço, n repetindo os caracteres
 #apenas para string, só aceita um argumento
